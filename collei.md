@@ -1,32 +1,36 @@
-19
+---
+title: 'Spreading Burning Blooms: A Collei Guide'
+character: 'Collei'
+character_star: 4
+element: 'dendro'
+aliases: []
+last_updated_game_version: '3.0'
+author: ['Emiliabyss#1641 (author)', 'Raikh (math + consultation)']
+---
 
-# **Spreading Burning Blooms:**
+![](https://oyster.ignimgs.com/mediawiki/apis.ign.com/genshin-impact/0/05/Protecc_collei_large.png?width=1920)
 
-**A Collei Guide**
+_**I'm starting to feel like... I'm finally a better person than I used to be."**_
 
-_By Emiliabyss#1641 (author) & Raikh (math + consultation)_
+# Abstract
 
-| ![](RackMultipart20220913-1-dwd49w_html_10c3b46c851f1cfc.png) |
-| --- |
-| "
-## _**I'm starting to feel like...
- I'm finally a better person than I used to be."**_
- |
-
-**The** _ **Extremely** _ **Short Version:**
+**Click here for the** _**Extremely**_ **Short Version:**
 [Collei Mastersheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit?usp=sharing)
 
-- **Leveling:** Level to 90 for reaction. Level Skill and Burst to 9+. Burst \> Skill \> Normals
-- **Constellations:** C1 +3.38%| C2 +6.69% | C3 +2.42% | C4 +0.00% | C5 +7.65% | C6 +7.20%
-- **Recommended Combos at C0:** Skill, Burst, Swap (.... Swap Back, Skill, Swap)
-- **Artifact Set:**
+##### Levelling 
+Level to 90 for reaction. Level Skill and Burst to 9+. Burst \> Skill \> Normals
+#### Constellations 
+C1 +3.38%| C2 +6.69% | C3 +2.42% | C4 +0.00% | C5 +7.65% | C6 +7.20%
+#### Recommended Combos at C0
+Skill, Burst, Swap (.... Swap Back, Skill, Swap)
+#### Artifact Set
   1. Default Build
-    - 4pc Deepwood; 4pc Noblesse Oblige; 4pc Tenacity of the Millelith; 4pc Instructor; 4pc Exile
+    4pc Deepwood; 4pc Noblesse Oblige; 4pc Tenacity of the Millelith; 4pc Instructor; 4pc Exile
       - (ER/ATK/EM; DMG; CRIT)
   2. Bloom Trigger Build
-    - 4pc Deepwood; 4pc Noblesse Oblige, 4pc Gilded Dreams
+    4pc Deepwood; 4pc Noblesse Oblige, 4pc Gilded Dreams
       - (ER/EM;EM;EM)
-- **Weapons:**
+#### Weapons
 
 1. Elegy for the End- Limited 5-star weapon - Overall BiS
 2. Polar Star / Aqua Simulacra- Limited 5-star weapons - For Spread Builds Only
@@ -34,7 +38,7 @@ _By Emiliabyss#1641 (author) & Raikh (math + consultation)_
 4. R5 Stringless \> R5 Mouun's Moon - For Spread Builds Only
 5. Favonius Warbow
 
-- **Teammates:**
+#### Teammates
   1. Dendro: Tighnari, Dendro Traveler
   2. Pyro: Thoma, Bennett, Xiangling
   3. Hydro: Yelan, Xingqiu, Tartaglia, Ayato, Kokomi, Mona
@@ -44,7 +48,7 @@ _By Emiliabyss#1641 (author) & Raikh (math + consultation)_
   7. Other: Zhongli
 
 ##
-# **Article I: Character Overview**
+## Character Overview
 
 Collei is a 4-star Dendro bow-user who offers support in off-field Dendro applicator and off-field damage. She is able to be either the 'Aura' in any team focused on Dendro reactions or the 'Trigger' in Quicken, Bloom/Rupture, and Burning teams. Collei, however, depends on these reactions in order to bring respectable damage to the team. Luckily, she can do this while also equipping strong support weapons like Elegy for the End or Favonius Warbow. Alternatively, she can focus on personal damage with Polar star, R5 Sacrificial Bow, R5 Stringless, or R5 Mouun's Moon.
 
@@ -60,74 +64,67 @@ Her niche, at time of release, is off-field application for Pyro-focused Dendro 
 | Is a confirmed Amber-liker. | Deserves better from the world. |
 
 ##
-# **Collei's Application and Reactions**
+## **Collei's Application and Reactions**
 
-**Elemental Application Rate**
+### Elemental Application Rate
 
-| **C0 Applications, Level 90** | **C6 Applications, Level 90** |
-| --- | --- |
-| Burst: | 3-4 | Burst: 4-5 | 4-5 |
-| Skill: 2 | 2 | Skill: 2 | 2 |
-| Sprout: 1 | 1 | Sprout: 2 | 2 |
-| Total: 6-7 | 6-7 | Total: 8-9 | 8-9 |
+| **C0 Applications, Level 90**|         |**C6 Applications, Level 90**|          |
+| :--------------------------: | :-----: | :-------------------------: | :------: |
+| Burst                        | 3-4 |Burst                         |4-5|
+| Skill                        | 2   | Skill                        | 2 |
+| Sprout                       | 1   | Sprout                       | 1 |
+| Total                        | 6-7 | Total                        |8-9|
+
 
 Equipping an Energy Recharge weapon like Favonius Warbow allows us to test full EM sets for damage. If you are to use an EM build for Collei, it is _strongly_ recommended you stick to either Elegy of the End, Favonius Warbow, or another powerful Energy Recharge or Elemental Mastery Bow. The other bows will not be as useful.
 
 Keep in mind that full EM builds don't require talent leveling! While ADC Collei can perform a satisfactory role for all Dendro reactions, specializing in EM for more specific use-cases _will_ result in more damage.
 
-Each instance of burning is four ticks per second. Two full seconds of Burning is the _ **exact** _ same damage as a single Overload/Bloom-Rupture. 12 seconds of Burning is achievable, but 10 seconds is safest to assume, putting Burning (typically) only barely behind Bloom. _ **Please remember** _ that Collei can only reach the numbers below on EM builds if there is a reliable way to ensure Collei owns each elemental reaction.
+Each instance of burning is four ticks per second. Two full seconds of Burning is the _**exact**_ same damage as a single Overload/Bloom-Rupture. 12 seconds of Burning is achievable, but 10 seconds is safest to assume, putting Burning (typically) only barely behind Bloom. _**Please remember**_ that Collei can only reach the numbers below on EM builds if there is a reliable way to ensure Collei owns each elemental reaction.
 
 However, unless a character is released in which Blooms explode automatically, the lengthy time delay between generating a Bloom and the damage it deals may be a turn-off. The most consistent option outside of this hypothetical character is Burning teams, and if 12s Burning can be reached, it matches Bloom's damage exactly.
 
-**Elemental Reaction Trigger Comparison**
+### Elemental Reaction Trigger Comparison
 
 _Favonius Warbow; 4pc Deepwood; 20s Rotation; E, Q, Swap; 30% Crit Rate for Fav passive; C0_
 
-| - | ATK / DMG / CRIT | EM / EM / EM | DMG Difference | Best Main Stat Choice | Overall Ranking |
-| --- | --- | --- | --- | --- | --- |
-| No Reactions | 100% | 100.00% | 160.78% | ATK / DMG / CRIT | 100% |
-| Total w/ 6 Spread | 131.98% | 245.04% | 40.46% | ATK / DMG / CRIT | 131.98% |
-| Total w/ 6 Bloom | 139.04% | 531.86% | 46.68% | **EM / EM / EM** | **203.95%** |
-| Total w/ 10s Burning | 132.54% | 459.89% | 33.06% | **EM / EM / EM** | **176.35%** |
+|                      | ATK / DMG / CRIT | EM / EM / EM | DMG Difference | Best Main Stat Choice | Overall Ranking |
+| :------------------: | :--------------: | :----------: | :------------: | :-------------------: | :-------------: |
+| No Reactions         | 100%             | 100.00%      | 160.78%        | ATK / DMG / CRIT      | 100%            |
+| Total w/ 6 Spread    | 131.98%          | 245.04%      | 40.46%         | ATK / DMG / CRIT      | 131.98%         |
+| Total w/ 6 Bloom     | 139.04%          | 531.86%      | 46.68%         | **EM / EM / EM**      | **203.95%**     |
+| Total w/ 10s Burning | 132.54%          | 459.89%      | 33.06%         | **EM / EM / EM**      | **176.35%**     |
 
 ##
-# **Energy Recharge Requirements**
+## Energy Recharge Requirements
 
 [Collei Mastersheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit?usp=sharing)
 
 When establishing Energy Recharge needs for a character, it almost entirely depends on the team composition the character is in, along with how many Skill uses are in a rotation per character, and whether or not they are equipped with a Favonius or Sacrificial weapon. It's advised to use an [Energy Recharge Calculator](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
 
-| **Energy Recharge Expectations** |
-| --- |
-| Without Fav/Sac | 200% |
-| Favonius Warbow | 170% |
-| Sacrificial Bow | 160% |
+### Energy Recharge Expectations
+
+| Weapon                              |  ER %     |
+| :---------------------------------- | :-------: |
+| Without Fav/Sac                     | 200%      |
+| Favonius Warbow                     | 170%      |
+| Sacrificial Bow                     | 160%      |
 | 24+s 2E rotations/Energy-rich teams | 160%-170% |
 
 The main benefit of finding creative ways to lower Energy Recharge requirements is to be able to focus more on offensive stats while still being able to Burst off cooldown.
 
 ##
-## **Active Talents**
+##  Active Talents
 
-## **–**
 
-##
-_ **Priority: Burst \> Skill \> Normal Attacks** _
+**_Priority: _Burst \> Skill \> Normal Attacks__**
 
-| ![](RackMultipart20220913-1-dwd49w_html_5cb0c4e0482f17e0.png) |
-#
-# **Normal Attack:**
+### Normal Attack - _Supplicant's Bowmanship_
+![](https://static.wikia.nocookie.net/gensin-impact/images/a/a9/Bow_Dendro.png)
 
-#
+_Talent Priority: #3 or N/A_
 
-_Supplicant's Bowmanship_
-#
-
-Talent Priority: #3 or N/A
- | ![](RackMultipart20220913-1-dwd49w_html_5cb0c4e0482f17e0.png) |
-| --- | --- | --- |
-
-**Normal and Charged Attacks**
+####  Normal and Charged Attacks
 
 Collei's Normal Attacks perform up to four consecutive strikes, dealing Physical damage based on her ATK. Her Charged Attack, like all 4-star bow users, charges up with an application of the character's element.
 
@@ -140,25 +137,17 @@ For those insistent on using Normal Attacks, N2C (two Normal Attacks followed by
 _Recorded in 60 FPS_
 
 | Attack Type | Number of hits/input | Multiplier at T9 | Execution Frame |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | N1 | 1 | 80.10% | 25 |
 | N2 | 1 | 78.40% | 32 |
 | N3 | 1 | 99.40% | 49 |
 | N4 | 1 | 125.00% | 28 |
 | Charged Attack | 1 | 210.80% | 94 |
 
-| ![](RackMultipart20220913-1-dwd49w_html_bd3ca1c78155ff1f.png) |
-#
-# **Elemental Skill:**
+ ### Elemental Skill - _Floral Brush_
+ ![](https://static.wikia.nocookie.net/gensin-impact/images/8/88/Talent_Floral_Brush.png) 
+_Talent Priority : #2_
 
-#
-
-_Floral Brush_
-#
-
-Talent Priority: #2
- | ![](RackMultipart20220913-1-dwd49w_html_bd3ca1c78155ff1f.png) |
-| --- | --- | --- |
 
 Using Collei's Skill makes her throw her Dendro boomerang, dealing Dendro damage twice: once closer to the time of throwing, and once on the way back to Collei.
 
@@ -170,77 +159,62 @@ Keeping a consistent Dendro aura on an enemy will ensure more reactions from her
 
 _Frames are recorded in 60 FPS_
 
-| **Attributes** | **Data** |
- | **Attributes** | **Data** |
+| **Attributes** | **Data** | **Attributes** | **Data** |
 | --- | --- | --- | --- | --- |
-| Multiplier (T9) | 257.00% (x2) |
- | Particle/cast | 3 |
-| Execution frames | 64 |
- | Particle/min | 12 |
-| Max Hold Duration | N/A |
- | Elemental Gauge | 1U Dendro on hit |
-| Cooldown | 12 seconds |
- | ICD | None |
+| Multiplier (T9) | 257.00% (x2) | Particle/cast | 3 |
+| Execution frames | 64 | Particle/min | 12 |
+| Max Hold Duration | N/A | Elemental Gauge | 1U Dendro on hit |
+| Cooldown | 12 seconds | ICD | None |
 
-| ![](RackMultipart20220913-1-dwd49w_html_90b6abf34bb94264.png) |
-# Elemental Burst:
-_Trump-Card Kitty_
-Talent Priority: #1
- | ![](RackMultipart20220913-1-dwd49w_html_90b6abf34bb94264.png) |
-| --- | --- | --- |
+### Elemental Burst - _Trump-Card Kitty_
+ ![](https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Talent_Trump-Card_Kitty.png) 
+_Talent Priority: #1_
 
 Collei's Burst throws her mascot (reminiscent of Amber's Baron Bunny) to repeatedly deal Dendro damage within a circular area highlighted in green. While the Burst can hit upwards of 19 times, it's heavily hampered by its ICD of three seconds (with no reset on hit count), meaning that even when fully extended with the help of her passives, the Burst will apply Dendro between three and four times. Four is often a safe assumption.
 
 Despite this downside, in typical ATK/DMG/CRIT builds, Collei's Burst is the vast majority of her damage, making it a priority for her investment.
 
-**In-Depth Attributes**
-
+#### **In-Depth Attributes**
 _Frames are recorded in 60 FPS; single-target only_
 
-| **Attributes** | **Data** |
- | **Attributes** | **Multiplier @ T9** |
-| --- | --- | --- | --- | --- |
-| Initial DMG | 343.10% |
- | Total Hits | 12-18 |
-| Burst Tick DMG | 73.50% |
- | Burst Tick Rate | 2/second (12-18 hits) |
-| Execution Frames | 44 |
- | Energy Cost | 60 |
-| Duration | 6-9 seconds |
- | Elemental Gauge | 1U Dendro on hit |
-| Cooldown | 15 seconds |
- | ICD | 3 seconds / _ **no hit** _ |
+| **Attributes** | **Data**  |   | **Attributes** | **Multiplier @ T9** |
+| ---            | ---       |-- |---             | ---                 |
+| Initial DMG | 343.10%  || Total Hits | 12-18 |
+| Burst Tick DMG | 73.50% || Burst Tick Rate | 2/second (12-18 hits) |
+| Execution Frames | 44  || Energy Cost | 60 |
+| Duration | 6-9 seconds  | |Elemental Gauge | 1U Dendro on hit |
+| Cooldown | 15 seconds  || ICD | 3 seconds / _ **no hit** _ |
 
 ##
-# **Passive Talents**
+## Passive Talents
 
-# **:**
-
-| ![](RackMultipart20220913-1-dwd49w_html_b90cfe3c9440abdb.png) |
+![](https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Talent_Floral_Sidewinder.png)
 #### First Ascension Passive: Floral Sidewinder
 
  _Triggering a Dendro reaction grants a Sprout effect on Collei's Skill when her boomerang returns, dealing a small amount of Dendro damage equal to 40% of her ATK as Skill damage to closely surrounding enemies for 3 seconds. (2 hits, 1 application)_ |
 | --- | --- |
-|
- Essentially staples an extra Dendro application to Collei's Skill. The damage is negligible. Sprout instances do not stack: only override. |
 
-|
+ Essentially staples an extra Dendro application to Collei's Skill. The damage is negligible. Sprout instances do not stack: only override. 
+_________________
 #### Fourth Ascension Passive: Languid Wood
+![](https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Talent_The_Languid_Wood.png)
 
- _Each Dendro reaction triggered during Collei's Burst uptime increases the duration by 1 second, up to 3 seconds._ This passive is practically mandatory for Collei's functionality, and forces Collei to focus on reactions to maximize her damage. It's a 50% extension to her Burst duration and easy to trigger. It also grants an extra application. Without this, her Burst only applies Dendro 2-3 times. | ![](RackMultipart20220913-1-dwd49w_html_fd1928c5f2c24802.png) |
+ _Each Dendro reaction triggered during Collei's Burst uptime increases the duration by 1 second, up to 3 seconds. This passive is practically mandatory for Collei's functionality, and forces Collei to focus on reactions to maximize her damage. It's a 50% extension to her Burst duration and easy to trigger. It also grants an extra application. Without this, her Burst only applies Dendro 2-3 times._|
 | --- | --- |
 
-| ![](RackMultipart20220913-1-dwd49w_html_506be8d6ef243c39.png) |
-#### Utility Passive: Sumeru Gliding Champion
+_________________
+
+####  Utility Passive: Sumeru Gliding Champion
+![](https://static.wikia.nocookie.net/gensin-impact/images/d/d3/Talent_Gliding_Champion_of_Sumeru.png) 
 
 
-_Decreases gliding Stamina consumption for your own party members by 20%.__Not stackable with Passive Talents that provide the exact same effects._Collei learned to glide from her "good friend," Amber. ;) |
+
+_Decreases gliding Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.<br>    Collei learned to glide from her "good friend", Amber. ;)_ |
 | --- | --- |
 
 ##
-# **Combos**
+## **Combos**
 
-# **:**
 
 The notation we'll be using to describe pieces of the combo will go as such:
 
@@ -260,39 +234,40 @@ There isn't much variety to this character's playstyle. The optimal, but most co
 
 **E \> Q \> Swap**
 
-**Or, with Polar Star**
+_Or, with Polar Star-_
 
 **N1 \> tA \> E \> Q \> Swap**
 
 As an off-field DPS, Collei's combos is an easy default; simply use her Skill and Burst and swap. When focusing on personal damage with Polar Star, in order to get max stacks on the weapon, it's recommended to get your Normal and Aimed/Charged shot out of the way as fast as possible, as they don't add anything to DPS on their own. Thus, a quickly tapped A is enough.
 
-![](RackMultipart20220913-1-dwd49w_html_fed70afb5598632c.png)
+![](https://www.theclick.gg/wp-content/uploads/2022/07/Sumeru-namecard-leak-for-Collei.webp)
 
 ##
-# **Constellations**
-
-# **:**
+## **Constellations**
 
 Constellations for 4-star units are inevitable. However, getting high constellations on a character's release is often more expensive than rolling for 5-stars. 4-stars, also, require most of the constellations to compete with C0 5-star units.
 
 Please only roll for constellations only based on your financial situation and level of disposable income. Colei benefits _most_ from C2, C5, an C6, but the damage difference between C0 and C6 is only 30%. There is some "invisible power" involved, as these constellations also grant extra Dendro application for other teams to exploit, so the usefulness in practice is likely greater than a 30% damage increase.
 
-| ![](RackMultipart20220913-1-dwd49w_html_a8def9f7c2a7d46.png) |
 #### Constellation 1: Deepwood Patrol
+ ![](https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Constellation_Deepwood_Patrol.png) 
+
 
  _When in the party and not on the field, Collei's Energy Recharge is increased by 20%._ **DPS increase from C0: ~3%** |
 | --- | --- |
 
-This constellation is deceptive. You would think that you' require 20% less Energy Recharge, right? _ **Wrong.** _ Characters nee to be on-field in order to collect the most energy from their own skills, and C1 only operates while off-field. This means Collei's own Dendro particles will not be enhanced by C1's Energy Recharge buff.
+This constellation is deceptive. You would think that you' require 20% less Energy Recharge, right? _**Wrong.**_ Characters need to be on-field in order to collect the most energy from their own skills, and C1 only operates while off-field. This means Collei's own Dendro particles will not be enhanced by C1's Energy Recharge buff.
 
 In reality, this is more like a 15% Energy Recharge buff. Still not bad – but it's important to understand this, as while off-field, characters generate less energy when receiving the same particles.
 
-|
-#### Constellation 2: Through Hill and Copse
-_Colei's Sprout effect on her First Ascension Passive is updated: if a Dendro reaction is triggered during Collei's Sprout duration, it is extended by 3 seconds (max one instance per Sprout)._
+---
 
-**DPS increase from C1: ~7% || from C0: ~10%** | ![](RackMultipart20220913-1-dwd49w_html_c5db05f12b8624f7.png) |
-| --- | --- |
+#### Constellation 2: Through Hill and Copse
+![](https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Constellation_Through_Hill_and_Copse.png) 
+<center> <i> Collei's Sprout effect on her First Ascension Passive is updated: if a Dendro reaction is triggered during Collei's Sprout duration, it is extended by 3 seconds <br>(max one instance per Sprout). </i><center>
+<br>
+
+<center> <b><u>DPS increase from C1: ~7% || from C0: ~10% </b></u></center>
 
 One extra Dendro application is gained through this constellation. The damage from Sprout is, as usual, insignificant, though the application itself proves useful nonetheless.
 
@@ -300,91 +275,85 @@ With highly technical Sacrificial Bow play, you can possibly even draw out _anot
 
 Keep in mind, an extended Sprout lasts for 6 total seconds, and Collei can only proc Sacrificial Bow's passive while on-field, meaning your timing has to be impeccable to not ruin the rotation's momentum.
 
-| ![](RackMultipart20220913-1-dwd49w_html_b16cea02d079f6bc.png) |
+----
 #### Constellation 3: Scent of Summer
-_Increases the Level of Collei's Skill by 3. Maximum upgrade level is 15._ **DPS increase from C2: ~2% || from C0: ~13%**
-Boomerang, now with extra wood for harder hits. |
-| --- | --- |
+ ![](https://static.wikia.nocookie.net/gensin-impact/images/a/ac/Constellation_Scent_of_Summer.png) 
 
-|
+<center> <i> Increases the Level of Collei's Skill by 3. Maximum upgrade level is 15. </i></center>
+
+<center> <b><u>DPS increase from C2: ~2% || from C0: ~13% </b></u></center>
+
+_Boomerang, now with extra wood for harder hits._
+
+---
+
 #### Constellation 4: Gift of the Woods
-_Using Trump-Card Kitty will increase all nearby characters' Elemental Mastery by 60 for 12s (not including Collei herself)._ **DPS increase from C3: ~0% || from C0: ~13%**
-C4 does nothing for her personal damage, but her team will be happy with the free EM to further exploit reactions that Collei enables. | ![](RackMultipart20220913-1-dwd49w_html_72a7c1d832447245.png) |
-| --- | --- |
+![](https://static.wikia.nocookie.net/gensin-impact/images/8/85/Constellation_Gift_of_the_Woods.png)
 
-| ![](RackMultipart20220913-1-dwd49w_html_d08a026a21df05c2.png) |
+<center><i>Using Trump-Card Kitty will increase all nearby characters' Elemental Mastery by 60 for 12s (not including Collei herself).</i><center> 
+<center> <b><u>DPS increase from C3: ~0% || from C0: ~13%</b></u></center>
+
+C4 does nothing for her personal damage, but her team will be happy with the free EM to further exploit reactions that Collei enables. 
+
+---
 #### Constellation 5: All Embers
 
-_Increases the level of Collei's Burst by 3. Maximum upgrade level is 15._
+![](https://static.wikia.nocookie.net/gensin-impact/images/7/77/Constellation_All_Embers.png) 
+<center><i>Increases the level of Collei's Burst by 3. Maximum upgrade level is 15</i></center> 
+<center> <b><u>DPS increase from C4: ~8% || from C0: 22%</b></u></center>
+
+Since so much of Collei's damage comes from her Burst, C5 ends up being one of the most useful constellations for increasing damage. 
 
 
-**DPS increase from C4: ~8% || from C0: 22%**
-Since so much of Collei's damage comes from her Burst, C5 ends up being one of the most useful constellations for increasing damage. |
-| --- | --- |
+#### Constellation 6: Forest of Falling Arrows
+![](https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Constellation_Forest_of_Falling_Arrows.png) 
 
-|
-#### Constellation 6: Winner Takes All
-
- _When the Floral Ring hits, it will create a miniature Cuilein-Anbar that will deal 200% of Collei's ATK as Dendro DMG._ **DPS increase from C5: ~7% || from C0: ~30%** | ![](RackMultipart20220913-1-dwd49w_html_7385dcd4034715e6.png) |
-| --- | --- |
+<center><i>When the Floral Ring hits, it will create a miniature Cuilein-Anbar that will deal 200% of Collei's ATK as Dendro DMG.</i></center> 
+<center> <b><u>DPS increase from C5: ~7% || from C0: ~30%</b></u></center>
 
 The biggest highlight from this constellation is the extra instance of Dendro application. Sadly, her constellations aren't very _interesting,_ even if they're useful.
 
 ##
-# **Article II: Equipment & Gear**
+##  Equipment & Gear
 
-#
+**The full list of assumptions can be found here :** [Collei Mastersheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit?usp=sharing)
 
-**The full list of assumptions can be found here:** [Collei Mastersheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit?usp=sharing)
+![](https://cdn.firstsportz.com/wp-content/uploads/2022/08/22135112/CC_Express_20220822_1345340-696x392.jpg)
 
-![](RackMultipart20220913-1-dwd49w_html_69ee4c76834c5178.png)
+_**Art by [Yoshiro Ambe](https://twitter.com/y_ambe)**_
 
-_ **Official art from Hoyoverse** _
+As always, it is recommended to use the** [**Genshin Optimizer**](https://frzyc.github.io/genshin-optimizer/) for artifact-gearing choices.
 
-## **As always, it is recommended to use the** [**Genshin Optimizer**](https://frzyc.github.io/genshin-optimizer/) **for artifact-gearing choices.**
+| Artifact Sets |     Notes   |
+ | :---: | --- |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/a/ab/Item_Labyrinth_Wayfarer.png)    <br> 4pc Deepwood Memories <br> **All-Purpose Option** | The overall best artifact set for Collei. It increases her own Dendro damage, including Spread Damage, and lowers Dendro resistance, which can amplify bloom and other types of Dendro damage from any character. <br> <br>If you don't know if you'll want to specialize Collei in EM or not, Deepwood is always safe. |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/0/0c/Item_Dreaming_Steelbloom.png)<br>4pc Gilded Dreams <br>**For Bloom/Burning (Trigger) Builds** | Gilded Dreams needs three Non-Dendro team members in order to excel. Two to compete. A hyper-specialized set for when you only want Collei to _**trigger**_ reactions. This set does not benefit Collei when acting as an aura. In ideal cases, expect 20% dmg > Deepwood. |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/7/71/Item_Royal_Flora.png)<br>4pc Noblesse Oblige <br>**For General Support Builds** | Noblesse Oblige is a support set that nearly every team can benefit from. It also enhances Collei's Burst damage. With builds focused on Bloom and Burning triggers, Noblesse provides nearly the same personal damage as Deepwood, making it mainly a choice between what the team needs. |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/5/51/Item_Flower_of_Accolades.png)<br>4pc Tenacity of the Millelith <br>**For General Support Builds** | Collei's Sprout damage counts as Skill damage, which means she is likely to be able to keep Tenacity of the Millelith up during the important damage windows. At higher constellations, this gets even better. Mostly an alternative to Noblesse Oblige for quickswap teams and Deepwood (perhaps if you're running both on the same team already?) |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/3/35/Item_Instructor%27s_Brooch.png)<br>4pc Instructor<br> **For Pure Support Builds** | For dedicated support only ; you are not trying to do damage with Collei if you're equipping this. The Team-wide EM buff is certainly worth mentioning, considering what Collei exists to do: facilitate Dendro reactions. |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/f/f9/Item_Exile%27s_Flower.png)<br>4pc Exile<br> **For Pure Support Builds** | For dedicated support only; you are not trying to do damage with Collei if you're equipping this. Useful when the team is in desperate need of energy, even after Favonius Warbow is equipped, and you don't mind sacrificing personal damage. |
 
-|
-## **Artifact Sets**
- |
-## **Notes**
- |
-| --- | --- |
-| ![](RackMultipart20220913-1-dwd49w_html_a58640494e5ac3d2.png)4pc Deepwood Memories **All-Purpose Option** | The overall best artifact set for Collei. It increases her own Dendro damage, including Spread Damage, and lowers Dendro resistance, which can amplify bloom and other types of Dendro damage from any character.
-If you don't know if you'll want to specialize Collei in EM or not, Deepwood is always safe. |
-| ![](RackMultipart20220913-1-dwd49w_html_63535c9fd1edeca4.png)4pc Gilded Dreams**For Bloom/Burning (Trigger) Builds** | Gilded Dreams needs three Non-Dendro team members in order to excel. Two to compete.
-A hyper-specialized set for when you only want Collei to _ **trigger** _ reactions. This set does not benefit Collei when acting as an aura.
-In ideal cases, expect 20% dmg \> Deepwood. |
-| ![](RackMultipart20220913-1-dwd49w_html_2a3014002098f445.png)4pc Noblesse Oblige **For General Support Builds** | Noblesse Oblige is a support set that nearly every team can benefit from. It also enhances Collei's Burst damage.
-With builds focused on Bloom and Burning triggers, Noblesse provides nearly the same personal damage as Deepwood, making it mainly a choice between what the team needs. |
-| ![](RackMultipart20220913-1-dwd49w_html_2e946a7f56dce0ee.png)4pc Tenacity of the Millelith **For General Support Builds** | Collei's Sprout damage counts as Skill damage, which means she is likely to be able to keep Tenacity of the Millelith up during the important damage windows. At higher constellations, this gets even better.
-Mostly an alternative to Noblesse Oblige for quickswap teams and Deepwood (perhaps if you're running both on the same team already?) |
-| ![](RackMultipart20220913-1-dwd49w_html_aab29ea33cf1a79.png)4pc Instructor **For Pure Support Builds** | For dedicated support only; you are not trying to do damage with Collei if you're equipping this.
-The Team-wide EM buff is certainly worth mentioning, considering what Collei exists to do: facilitate Dendro reactions. |
-| ![](RackMultipart20220913-1-dwd49w_html_e8b0dcdd43f1ddd5.png)4pc Exile **For Pure Support Builds** | For dedicated support only; you are not trying to do damage with Collei if you're equipping this.
-Useful when the team is in desperate need of energy, even after Favonius Warbow is equipped, and you don't mind sacrificing personal damage. |
+---
+## Mainstats and Substats
 
-#
-
-# Mainstats and Substats:
-
-**The Different Build Types**
+#### The Different Build Types
 
 Collei has two different approaches to build her.
 
-- **Aura/Spread**  **-** Focuses on either Spread damage or being able to facilitate all reactions as a Dendro _ **Aura** _ equally. Under a generalist build, all three reactions Collei can _ **Trigger** _ do nearly identical damage: within 250 DPS of each other. This build is best when you just want an easy-functioning Dendro character.
+- **Aura/Spread**  **-** Focuses on either Spread damage or being able to facilitate all reactions as a Dendro  _Aura_ equally. Under a generalist build, all three reactions Collei can  _Trigger_ do nearly identical damage: within 250 DPS of each other. This build is best when you just want an easy-functioning Dendro character.
 
-  - ER/EM/ATK; Dendro DMG; CRIT
+  - ER/EM/ATK - Dendro DMG - CRIT
   - Useful for any generic team composition supporting another character.
 
 - **Trigger/Bloom-Burn** - Focuses on Elemental Mastery more than anything else, and focuses on Collei's personal damage with the reactions she can enable. This build is best for squeezing every ounce of personal damage out of Collei for a price.
 
 
-  - ER/EM; EM; EM
+  - ER/EM - EM - EM
   - Useful only in niche circumstances, but powerful in those circumstances, at the cost of being borderline irrelevant in cases where someone else wants ownership of reactions.
 
-**Sands: ER%, EM, or ATK%**
+**Sands:** ER%, EM, or ATK%
 
-If Collei's energy needs are not met, you _ **must** _ do one of the following:
+If Collei's energy needs are not met, you  _must_ do one of the following:
 
 - Equip an Energy Recharge% weapon _and_ acquire enough substats.
 - Equip an Energy Recharge% sands _and_ acquire enough substats.
@@ -392,13 +361,13 @@ If Collei's energy needs are not met, you _ **must** _ do one of the following:
 
 At lower energy requirements in an energy-rich team full of functional batteries, or teams with longer rotations, such as 160%-170%, you can safely equip an ATK% or EM sands, depending on your preferred angle for Collei.
 
-On Aura/Spread builds, EM and ATK% are _ **roughly equal** _ in terms of damage (within 2%). Just pick what has better substats.
+On Aura/Spread builds, EM and ATK% are  _roughly equal_ in terms of damage (within 2%). Just pick what has better substats.
 
-**Goblet: Dendro DMG% or EM**
+**Goblet:** Dendro DMG% or EM
 
 This is fairly straightforward. For regular and Spread damage, use DMG%. For triggering reactions, use EM.
 
-**Circlet: Crit Rate%/ Crit DMG% or EM**
+**Circlet:** Crit Rate%/ Crit DMG% or EM
 
 In Aura/Spread builds, Crit is king. For CRIT circlet, choose whatever Crit main stat that helps you balance a 1:2 crit ratio, and take substat into consideration as well. Normally the choice depends on the weapon and substats.
 
@@ -413,17 +382,13 @@ Substats priority is as follows:
 3. ATK% or EM% depending on chosen build.
 
 ##
-# **In-Depth Weapon Analysis:**
+## **In-Depth Weapon Analysis:**
 
 **PLEASE READ:** These weapon standings assume **you are playing the** _Aura/Spread_ build for now. Attention will be brought to weapons best for Reaction Trigger builds, but it's easy to remember to just pick the EM and ER weapons in about the same order from this list.
 
 Assume 6 Spread instances. E \> Q \> Swap. 4pc Deepwood. 20s rotation
 
-|
-## **Weapon**
- |
-## **Notes**
- |
+|Weapon|Notes|
 | --- | --- |
 | ![](RackMultipart20220913-1-dwd49w_html_70bb5579d48b52fb.png)Polar Star (118%) **Aura/Spread Builds Only** | _Elemental Skill and Elemental Burst DMG increased by 12%. Using NA's, CA's, Skills, and Bursts offers an ATK% buff, maxing at 48%_
 **[**  **608 ATK || 33.1% Crit Rate** **]**
