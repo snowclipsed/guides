@@ -304,6 +304,7 @@ C4 does nothing for her personal damage, but her team will be happy with the fre
 
 Since so much of Collei's damage comes from her Burst, C5 ends up being one of the most useful constellations for increasing damage. 
 
+---
 
 #### Constellation 6: Forest of Falling Arrows
 ![](https://static.wikia.nocookie.net/gensin-impact/images/b/b8/Constellation_Forest_of_Falling_Arrows.png) 
