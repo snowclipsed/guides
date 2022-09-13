@@ -389,76 +389,36 @@ Substats priority is as follows:
 Assume 6 Spread instances. E \> Q \> Swap. 4pc Deepwood. 20s rotation
 
 |Weapon|Notes|
-| --- | --- |
-| ![](RackMultipart20220913-1-dwd49w_html_70bb5579d48b52fb.png)Polar Star (118%) **Aura/Spread Builds Only** | _Elemental Skill and Elemental Burst DMG increased by 12%. Using NA's, CA's, Skills, and Bursts offers an ATK% buff, maxing at 48%_
-**[**  **608 ATK || 33.1% Crit Rate** **]**
-While this deals the most personal damage in Spread builds, it is _ **not** _ the Best-in Slot. One reason is it requires you to extend field time to N1tA to build stacks. If it extends a rotation, this hurts DPS, and you must be able to aim-cancel well to grab these stacks in a short time. |
-| ![](RackMultipart20220913-1-dwd49w_html_50e21a877f913155.png)Elegy for the End (108%)
-**Overall Best-in-Slot** | _Increases Elemental Mastery by 60.
- On Skill or Burst hit, gain a stack, even if off-field.
- Consume 4 stacks to grant 100 EM and 20% ATK for 20s._
-**[608 ATK || 55.1% Energy recharge]**
-This weapon not only supercharges Collei's kit, but the rest of her teammates who synergize with her as well. Team buffs are often more valuable than slightly more personal damage. The only reason not to use this is if someone else on the same team _also_ has an Elegy (and needs it more). |
-| ![](RackMultipart20220913-1-dwd49w_html_f9b177d3acaf67de.png)
-Aqua Simulacra (108%)
-**Aura/Spread Builds Only** | _Holder's MAX HP +16%.
- When opponents are nearby, wielder DMG% +20%, even when off-field._ **[**  **542 ATK || 88.2% CRIT Damage** **]**
-While Collei doesn't care about her HP stat much, the massive CRIT Damage bonus and the DMG% Bonus are welcome additions to Collei. However, it's just an expensive stat-stick, which doesn't help Collei's supportive capabilities. Elegy does similar damage, plus team-buffing. |
-| ![](RackMultipart20220913-1-dwd49w_html_fa939ec49316cd94.png)
- R5 Sacrificial Bow (107%)
-**All-Around Personal DMG** | _On Elemental Skill hit, 60-80% (R3-R5) chance to end its own CD. Can only occur once every 22-16s (R3-R5)._
-**[565 ATK || 30.6% Energy Recharge]**
-Collei's default energy requirement falls from 200% to 160% with this weapon, allowing investment into other offensive stats. This also gives at least one extra application of Dendro, up to three depending on the sacrifices willing to be made.
-
-CAUTION:_ **Must** _ be R4 or R5 to not delay rotation. |
-| ![](RackMultipart20220913-1-dwd49w_html_eea9f7cb1c960fda.png)
-R5 Mouun's Moon (107%)
-**Aura/Spread Builds Only** | _For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24% (R5). A maximum of 80% (R5) increased Elemental Burst DMG can be achieved this way._
-**[**  **565 ATK || 27.6% ATK** **]****Assumes 280 total team energy.**
-
-While this is rated with the same percentage of Sac Bow, Sac Bow actually has a higher damage ceiling due to its ability to create additional reactions. This is also a limited gacha weapon and difficult to refine. |
-| ![](RackMultipart20220913-1-dwd49w_html_6a669f00f5c325c5.png)R5 The Stringless (107%)
-**Best on Aura/Spread Build** | _Increases Elemental Skill DMG by 48%.__Increases Elemental Burst DMG by 48%._
-**[510 ATK || 165 Elemental Mastery]**
-See Mouun's Moon for Aura/Spread build information. Note that Stringless's passive does not apply for reactions, so it can still benefit full EM builds, but not as much. |
-| ![](RackMultipart20220913-1-dwd49w_html_f275cf23561042b9.png)
-Thundering Pulse (101%)
-**Aura/Spread Builds Only** | _The passive doesn't really do anything for Collei_
-**[608 ATK || 66.2% Crit Damage]**
-With a mostly wasted passive that grants ATK% and Normal Attack DMG, this should only be used as a raw Crit Damage stick and nothing more. It is put to better use on other characters. |
-| ![](RackMultipart20220913-1-dwd49w_html_cf708d91877c5b89.png)Hunter's Path (100%) **Craftables Match This** | _12% all Elemtnal DMG bonus. Charged Shots give later Charged Shots an additive bonus of 160% of Elemental Mastery._
-**[542 ATK || 44.1% Crit Rate]**
-Sadly, Collei does not use Charged Shots. The time it would take her to utilize this passive is nowhere near close enough to warrant spending money on this weapon when even R1 Prototype Crescent (post-headshot) matches this damage. |
-| ![](RackMultipart20220913-1-dwd49w_html_a709b6825517f699.png)
-Favonius Warbow (100%)
-**Best 4\* Support Option** | _CRIT Hits have a 60-100% (R1-R5) chance to generate 6 Energy for the character, once every 12-6s (R1-R5)._
-**[454 ATK || 61.3% Energy Recharge]**
-Collei's default energy requirement falls from 200% to 160% with this weapon, allowing investment into other offensive stats. Everyone gets one by clearing Mondstadt, making it free. Solves all ER requirements for herself and helps her team as well. |
-| **Other (roughly) 100% Weapons**R1 StringlessR1 Mouun's MoonR1 Prototype CrescentSkyward Harp | A high-refinement Prototype Crescent can, on paper, match top-tier options in terms of damage after one headshot, but it's not listed due to the difficulty being extremely high to manage.
-Most of these are for Spread builds only. Use Skyward only for an esoteric Physical-Only build like many do for Amber. |
-| ![](RackMultipart20220913-1-dwd49w_html_f1d5b368113a8d28.png)
-R5 King's Squire (87%)
-**Better for Reaction Trigger** | _Once per 20 seconds, when unleashing Elemental Skills and Bursts, +140 Elemental Mastery for 12s. Removed when switching characters. When the effect ends, deal 180% of ATK to 1 nearby opponent._
-**[454 ATK || 55.1% ATK]**
-I really, really wanted this weapon to work. It looks awesome and fits her, but the drip itself is not strong here.
-In Reaction Trigger builds, the damage roughly matches Fav Warbow, but doesn't fuel the party's energy. Sorry folks |
-
-##
-# **Article III: Team Composition**
-
-![](RackMultipart20220913-1-dwd49w_html_274799d99ef5b6b1.png)
-
-_ **Official art from Hoyoverse** _
+| :---: | :---: |
+| ![](https://lh3.googleusercontent.com/P0Pdx5PBppBXG1dfIBA_JyjF1qLzSFbd-ScTJmgcj5S2SUIu0xg_YdVC4zepauCd_3YtmPLIkgt7FiU4LfS4yZTj38s54t7FYpse9BdMJ6nDAtxT_FjGRxyet5z3YsXmwkRjZMCzkfo)<br>Polar Star  (118%) <br>**Aura/Spread Builds Only** | _Elemental Skill and Elemental Burst DMG increased by 12%. Using NA's, CA's, Skills, and Bursts offers an ATK% buff, maxing at 48%_ <br><br> **[608 ATK \|\| 33.1% Crit Rate]** <br><br> While this deals the most personal damage in Spread builds, it is _**not**_ the Best-in Slot. One reason is it requires you to extend field time to N1tA to build stacks. If it extends a rotation, this hurts DPS, and you must be able to aim-cancel well to grab these stacks in a short time. |
+| ![](https://lh4.googleusercontent.com/6Bw9ggeI0QQBFcEueUDSEr6-canwfOloNTwU4RNHNsUD1eHuyrA7IahhR3obpIab3IiCHTnl5COLN9Ljyf4rmgU7OywYs9qyFFaNITatjk0Z10KWHFiu7SyO0jdgX2Jc7KU16oICeYw)<br>Elegy for the End (108%) <br> **Overall Best-in-Slot** | _Increases Elemental Mastery by 60. On Skill or Burst hit, gain a stack, even if off-field. Consume 4 stacks to grant 100 EM and 20% ATK for 20s._ <br><br>**[608 ATK \|\| 55.1% Energy TRecharge]**<br><br> This weapon not only supercharges Collei's kit, but the rest of her teammates who synergize with her as well. Team buffs are often more valuable than slightly more personal damage. The only reason not to use this is if someone else on the same team _also_ has an Elegy (and needs it more). | 
+| ![](https://lh5.googleusercontent.com/OeZSLzgdfb-Nf1Oq_GDzx1WqLTxG7mWx1BIjnNSGraOdTHRwn6ZMLbIiN-OC6UkOAosLsa8in-8Svf0ckPPuBuQhUtIzdwpI83pAYyH9vMRmQfvZlUlNWvkbt2vwJ4PruO5E5y4xLmw)<br>Aqua Simulacra (108%) <br> **Aura/Spread Builds Only** | _Holder's MAX HP +16%. When opponents are nearby, wielder DMG% +20%, even when off-field._ <br><br> **[**  **542 ATK \|\| 88.2% CRIT Damage** **]** <br><br>While Collei doesn't care about her HP stat much, the massive CRIT Damage bonus and the DMG% Bonus are welcome additions to Collei. However, it's just an expensive stat-stick, which doesn't help Collei's supportive capabilities. Elegy does similar damage, plus team-buffing. |
+| ![](https://lh4.googleusercontent.com/9RCIlc7LNO81j_fI7UD2bMLiSc0eELCtp5_ZV2VgkvJgb_u_o2XXfN2UNzUZ8jGbUK-R4rkX89NgZVgGkvG-VOPr_PyCOMg5bxEEQIJ6-5VtP0DivIgx5gwh7jv0FpuYqw9qOc5wkSk) <br>Sacrificial Bow (R5) (107%)<br>**All-Around Personal DMG** | _On Elemental Skill hit, 60-80% (R3-R5) chance to end its own CD. Can only occur once every 22-16s (R3-R5)._ <br><br> **[565 ATK \|\| 30.6% Energy Recharge]**<br><br> Collei's default energy requirement falls from 200% to 160% with this weapon, allowing investment into other offensive stats. This also gives at least one extra application of Dendro, up to three depending on the sacrifices willing to be made. <br> <br>CAUTION: _**Must**_ be R4 or R5 to not delay rotation. |
+| ![](https://lh5.googleusercontent.com/ne0eUikIXuSvsJqFZh4dbpe-QgyjtM16Y7q_SubEw1ySqpA6vs83CJ_ok4XL740pMZoB2NXhFIV0HHw_wlOOMsjDszs67YTx5pIYlQIw7MeOfmbh_qF-pjBkEu33U1-wr3jspfgP-Cs)Mouun's Moon (R5) (107%) <br> **Aura/Spread Builds Only** | _For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by 0.24% (R5). A maximum of 80% (R5) increased Elemental Burst DMG can be achieved this way._ <br><br>**[**  **565 ATK \|\| 27.6% ATK** **]****Assumes 280 total team energy.** <br><br>While this is rated with the same percentage of Sac Bow, Sac Bow actually has a higher damage ceiling due to its ability to create additional reactions. This is also a limited gacha weapon and difficult to refine.|
+| ![](https://lh3.googleusercontent.com/7w3uUKXtubmJfD9nogsDZMN2-_wu63Vt49kmPjLGakzMeNpdfwVcWW8z-s7QiAKyn0rfLfbZgVpqgcTTjibrXwGSKX6tM2CrcUIDvaULA-fJbavUYr_b-hUyWUDrTdlQoc72OQmEL7s)The Stringless (R5) (107%) <br> **Best on Aura/Spread Build** | _Increases Elemental Skill DMG by 48%.__Increases Elemental Burst DMG by 48%. <br><br>_**[510 ATK \|\| 165 Elemental Mastery]**<br><br> See Mouun's Moon for Aura/Spread build information. Note that Stringless's passive does not apply for reactions, so it can still benefit full EM builds, but not as much. |
+| ![](https://lh5.googleusercontent.com/7eyROdDJPmKURtj4VIFIjF4FjLg3i10wu1WgtRzPJxWNKSDsVpdDAaejZxsDQ0nhJJ4tf9G4vv1aSaj_64UdqffN1e5GLDO6jSoL-ec2NnARY1W_BHZVReIBVLtt9vXJStpMbjn63n4)Thundering Pulse (101%)<br> **Aura/Spread Builds Only** | _The passive doesn't really do anything for Collei_ <br><br>**[608 ATK \|\| 66.2% Crit Damage]**<br><br>With a mostly wasted passive that grants ATK% and Normal Attack DMG, this should only be used as a raw Crit Damage stick and nothing more. It is put to better use on other characters. |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Weapon_Hunter%27s_Path.png)<br>Hunter's Path (100%)<br> **Craftables Match This** | _12% all Elemtnal DMG bonus. Charged Shots give later Charged Shots an additive bonus of 160% of Elemental Mastery._ <br><br>**[542 ATK \|\| 44.1% Crit Rate]**<br><br> Sadly, Collei does not use Charged Shots. The time it would take her to utilize this passive is nowhere near close enough to warrant spending money on this weapon when even R1 Prototype Crescent (post-headshot) matches this damage. |
+| ![](https://lh6.googleusercontent.com/sQFHO7kJfMCUEcBh9DRaEN21cPlJgv3EJlcqLMEzNxjt7Y6dZDv8QHJF6-dfH-rRMUtMvraMMTPinQi5wjfOH4YSVkDbdrBCSnzoUDa2oPIFj1m_nHRkrhbSy6V6Vzo3TAiGVeEqgQw)<br>Favonius Warbow (100%)<br> **Best 4\* Support Option** | _CRIT Hits have a 60-100% (R1-R5) chance to generate 6 Energy for the character, once every 12-6s (R1-R5)._<br><br> **[454 ATK \|\| 61.3% Energy Recharge]**<br><br> Collei's default energy requirement falls from 200% to 160% with this weapon, allowing investment into other offensive stats. Everyone gets one by clearing Mondstadt, making it free. Solves all ER requirements for herself and helps her team as well. |
+| ![](https://lh3.googleusercontent.com/7w3uUKXtubmJfD9nogsDZMN2-_wu63Vt49kmPjLGakzMeNpdfwVcWW8z-s7QiAKyn0rfLfbZgVpqgcTTjibrXwGSKX6tM2CrcUIDvaULA-fJbavUYr_b-hUyWUDrTdlQoc72OQmEL7s)![](https://lh5.googleusercontent.com/ne0eUikIXuSvsJqFZh4dbpe-QgyjtM16Y7q_SubEw1ySqpA6vs83CJ_ok4XL740pMZoB2NXhFIV0HHw_wlOOMsjDszs67YTx5pIYlQIw7MeOfmbh_qF-pjBkEu33U1-wr3jspfgP-Cs)
+![](https://lh6.googleusercontent.com/RmbflSuzkhg8DQMpCQE8U5vxFiUK_022Au_6kXC26DjNPO9L4P3R-vGtZPyWEoO2waD48jL8NXJszwfHp1XEcpNh132yvBKZfffslfcaaM80A1_-yLtUqYiUe6PxpKrdKv74iVhQ378)![](https://lh3.googleusercontent.com/1tAsLs8fi73VHsoUar5L3PDYK8h8QqUfeUtoug6AT4PL8rpdzjISlUOqJO7oMX5BfY-kUvxvf9Xc7wGhd5ogB3KNxfI7j_SfcPbaZ2yEW92iei_bxiVYNo5aLmwRXU5_nodvlXVBK2I)**Other (roughly) 100% Weapons** <br> Stringless(R1) <br> Mouun's Moon (R1) <br> Prototype Crescent (R1) <br> Skyward Harp | A high-refinement Prototype Crescent can, on paper, match top-tier options in terms of damage after one headshot, but it's not listed due to the difficulty being extremely high to manage. Most of these are for Spread builds only. Use Skyward only for an esoteric Physical-Only build like many do for Amber. |
+| ![](https://static.wikia.nocookie.net/gensin-impact/images/a/a2/Weapon_King%27s_Squire.png)R5 King's Squire (87%) <br> **Better for Reaction Trigger** | _Once per 20 seconds, when unleashing Elemental Skills and Bursts, +140 Elemental Mastery for 12s. Removed when switching characters. When the effect ends, deal 180% of ATK to 1 nearby opponent._ <br><br> **[454 ATK \|\| 55.1% ATK]**<br><br> I really, really wanted this weapon to work. It looks awesome and fits her, but the drip itself is not strong here. In Reaction Trigger builds, the damage roughly matches Fav Warbow, but doesn't fuel the party's energy.<br> Sorry folks.|
 
 #
+## Team Composition
 
-# The Anatomy of a Collei Team
+![](https://gameriv.com/wp-content/uploads/2022/06/image-432.png)
+
+_Official art from Hoyoverse_
+
+
+
+###  The Anatomy of a Collei Team
 
 Collei can fit into any team that utilizes Dendro reactions. Start a team with an intended reaction, and then fill the team with characters who exploit that reaction.
 
 For Quicken teams, the best candidates for DPS units are characters that have extremely high Electro application, like Fischl or Keqing. This is because Aggravate is an additive buff, much like Shenhe and Yunjin's buffs they give to characters. Additive buffs are best when there are multiple hits, rather than high multipliers. From there, you focus on sustaining the reaction or shredding elemental resistance, often with an Anemo character or Zhongli.
 
-_ **A helpful tip: Zhongli is the only other character at this point who can shred enemy Dendro resistance without the use of 4pc Deepwood. He also shreds Electro resistance at the same time.** _
+_ **A helpful tip :  Zhongli is the only other character at this point who can shred enemy Dendro resistance without the use of 4pc Deepwood. He also shreds Electro resistance at the same time.** _
 
 | **Quicken/Aggravate/Spread Teams** |
 | --- |
