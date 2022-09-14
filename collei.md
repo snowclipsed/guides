@@ -1,5 +1,6 @@
 
 
+
 ---
 title: 'Spreading Burning Blooms: A Collei Guide'
 character: 'Collei'
@@ -249,7 +250,7 @@ As an off-field DPS, Collei's combos is an easy default; simply use her Skill an
 
 Constellations for 4-star units are inevitable. However, getting high constellations on a character's release is often more expensive than rolling for 5-stars. 4-stars, also, require most of the constellations to compete with C0 5-star units.
 
-Please only roll for constellations only based on your financial situation and level of disposable income. Colei benefits _most_ from C2, C5, an C6, but the damage difference between C0 and C6 is only 30%. There is some "invisible power" involved, as these constellations also grant extra Dendro application for other teams to exploit, so the usefulness in practice is likely greater than a 30% damage increase.
+Please only roll for constellations only based on your financial situation and level of disposable income. Collei benefits _most_ from C2, C5, an C6, but the damage difference between C0 and C6 is only 30%. There is some "invisible power" involved, as these constellations also grant extra Dendro application for other teams to exploit, so the usefulness in practice is likely greater than a 30% damage increase.
 
 #### Constellation 1: Deepwood Patrol
  ![](https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Constellation_Deepwood_Patrol.png) 
@@ -321,9 +322,9 @@ The biggest highlight from this constellation is the extra instance of Dendro ap
 
 **The full list of assumptions can be found here :** [Collei Mastersheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit?usp=sharing)
 
-![](https://cdn.firstsportz.com/wp-content/uploads/2022/08/22135112/CC_Express_20220822_1345340-696x392.jpg)
+![](https://i.imgur.com/1m2cfrY.png)
 
-_**Art by [Yoshiro Ambe](https://twitter.com/y_ambe)**_
+_**Official Art by Hoyoverse**_
 
 As always, it is recommended to use the** [**Genshin Optimizer**](https://frzyc.github.io/genshin-optimizer/) for artifact-gearing choices.
 
@@ -496,11 +497,11 @@ For Dendro, basically any current Dendro character can have a try at being the T
  **Team members for Bloom/Fridge teams.** 
  |||||
 | :---: | :---: | :---: | :---: |
-| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tighnari.png?raw=true)Tighnari<br><b>On-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/traveler_boy_anemo.png?raw=true)Traveler<br><b>Application Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ayato.png?raw=true)Ayato<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/mona.png?raw=true)Mona<br><b>Buffing Support |
-![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tartaglia.png?raw=true)Tartaglia<br><b>On-field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kokomi.png?raw=true)Kokomi<br><b>Healing Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/yelan.png?raw=true)Yelan<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/xingqiu.png?raw=true)Xingqiu<br><b>Off-Field Support |
-![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kazuha.png?raw=true)Kazuha<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sayu.png?raw=true)Sayu<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/jean.png?raw=true)Jean<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sucrose.png?raw=true)Sucrose<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/rosaria.png?raw=true)Jesse<br><b>Off-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kaeya.png?raw=true)James<br><b>Off-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/zhongli.png?raw=true)Zhongli<br><b>Shielder, Debuffer | ![](RackMultipart20220913-1-dwd49w_html_9cefc8b60af37a55.png)Venti<br><b>Viridescent Support |
-|![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ayaka.png?raw=true)Ayaka<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ganyu.png?raw=true)Ganyu<br><b>DPS | ![](RackMultipart20220913-1-dwd49w_html_83d6b5bf2a6c64f9.png)It Is A Mystery
- | ![](RackMultipart20220913-1-dwd49w_html_3c39c4d828ca885a.png)It Is A Mystery|
+| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tighnari.png?raw=true)Tighnari<br><b>On-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/traveler_boy_anemo.png?raw=true)Traveler<br><b>Application Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ayato.png?raw=true)<br>Ayato<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/mona.png?raw=true)<br>Mona<br><b>Buffing Support |
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tartaglia.png?raw=true)<br>Tartaglia<br><b>On-field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kokomi.png?raw=true)<br>Kokomi<br><b>Healing Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/yelan.png?raw=true)<br>Yelan<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/xingqiu.png?raw=true)<br>Xingqiu<br><b>Off-Field Support |
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kazuha.png?raw=true)<br>Kazuha<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sayu.png?raw=true)<br>Sayu<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/jean.png?raw=true)<br>Jean<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sucrose.png?raw=true)<br>Sucrose<br><b>Viridescent Support |
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/rosaria.png?raw=true)<br>Jesse<br><b>Off-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kaeya.png?raw=true)<br>James<br><b>Off-Field DPS |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/zhongli.png?raw=true)<br>Zhongli<br><b>Shielder, Debuffer |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/venti.png?raw=true)Venti<br><b>Viridescent Support |
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ayaka.png?raw=true)Ayaka<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ganyu.png?raw=true)Ganyu<br><b>DPS | ![](https://i.imgur.com/UnSsjmT.png)It Is A Mystery | ![](https://i.imgur.com/l7Gusme.png)It Is A Mystery|
 
 Finally, there are Burning Teams, which focus on providing as much Dendro application as possible with Pyro in order to afflict enemies with damage-over-time, much like Electro-Charged strategies. Dendro application demands are generally higher because Dendro acts as the "fuel" for Burning. 1U of Dendro with Burning lasts about 2-seconds. Collei is the best at keeping this application up while off-field. Dendro Traveler, however, is ineligible for Burning teams, due to her Burst's premature explosion.
 
