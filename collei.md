@@ -481,8 +481,7 @@ The Bloom/Rupture Formula is _identical_ to the Overload formula, so consider Bl
  **Bloom/Fridge Teams** 
 |||||
 | :---: | :---: | :---: | :---: |
-| ![](RackMultipart20220913-1-dwd49w_html_dcff5ab7d5df12c4.png)![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/collei.png?raw=true)
- Collei (Either Build) | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/anemo.svg)![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Anemo/Flex |![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/hydro.svg)Hydro | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/cryo.svg)![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Cryo/Flex |
+| ![](RackMultipart20220913-1-dwd49w_html_dcff5ab7d5df12c4.png)![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/collei.png?raw=true) Collei <br> (Either Build) | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/anemo.svg)![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Anemo/Flex |<img src = "https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/hydro.svg" width = 300> Hydro </img>| ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/cryo.svg)![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Cryo/Flex |
 
 The flex slots can be more Dendro or Hydro characters. Anemo is useful when your On-Field DPS is Hydro and not the Trigger for reactions. In these cases, you want your Dendro character to carry Elemental Mastery gear. It's not recommended to run other elements besides Zhongli for his universal resistance shred. Choose Dendro or Hydro based on balancing the amount of application for whoever you decide to be your trigger DPS.
 
@@ -492,40 +491,34 @@ Yelan and Xingqiu provide lots of Hydro while also being generically strong unit
 
 For Dendro, basically any current Dendro character can have a try at being the Trigger for Bloom/Rupture. As for Cryo, the character will usually want to be off-field while consistently applying Cryo. Exceptions can be made if your Bloom Aura and Trigger _both_ do their job off-field (like Collei or Kokomi).
 
-| **Team members for Bloom/Fridge teams.** |
-| --- |
-| ![](RackMultipart20220913-1-dwd49w_html_8587f8c82faff2c4.png)
- TighnariOn-Field DPS | ![](RackMultipart20220913-1-dwd49w_html_40926def42ed2705.png)TravelerApplication Support | ![](RackMultipart20220913-1-dwd49w_html_1b2e93cbc3c32a18.png)AyatoDPS | ![](RackMultipart20220913-1-dwd49w_html_ed57234bbd74d09a.png)MonaBuffing Support |
-| ![](RackMultipart20220913-1-dwd49w_html_66f05feff8a9b7e5.png)TartagliaOn-field DPS | ![](RackMultipart20220913-1-dwd49w_html_9f2a36136bb7b99e.png)
- KokomiHealing Support | ![](RackMultipart20220913-1-dwd49w_html_d0e2882105d289b7.png)
- YelanDPS | ![](RackMultipart20220913-1-dwd49w_html_5451383eb6a25a32.png)XingqiuOff-Field Support |
-| ![](RackMultipart20220913-1-dwd49w_html_6b4b0f73e8a1c9a0.png)
- KazuhaViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_88c315a626fddfe9.png)SayuViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_370f098ce0de01bf.png)
- JeanViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_82db4d35b228cbe0.png)SucroseViridescent Support |
-| ![](RackMultipart20220913-1-dwd49w_html_5d12914fba4fb43a.png)JesseOff-Field DPS | ![](RackMultipart20220913-1-dwd49w_html_63be165cf15bbd01.png)JamesOff-Field DPS | ![](RackMultipart20220913-1-dwd49w_html_843d8836a89e62eb.png)ZhongliShielder, Debuffer | ![](RackMultipart20220913-1-dwd49w_html_9cefc8b60af37a55.png)VentiViridescent Support |
-| ![](RackMultipart20220913-1-dwd49w_html_a207f7c9f90a20a3.png)AyakaDPS | ![](RackMultipart20220913-1-dwd49w_html_ca9a079f83577fa6.png)GanyuDPS | ![](RackMultipart20220913-1-dwd49w_html_83d6b5bf2a6c64f9.png)It Is A Mystery
+ **Team members for Bloom/Fridge teams.** 
+ |||||
+| :---: | :---: | :---: | :---: |
+| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tighnari.png?raw=true)Tighnari<br><b>On-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/traveler_boy_anemo.png?raw=true)Traveler<br><b>Application Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ayato.png?raw=true)Ayato<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/mona.png?raw=true)Mona<br><b>Buffing Support |
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tartaglia.png?raw=true)Tartaglia<br><b>On-field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kokomi.png?raw=true)Kokomi<br><b>Healing Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/yelan.png?raw=true)Yelan<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/xingqiu.png?raw=true)Xingqiu<br><b>Off-Field Support |
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kazuha.png?raw=true)Kazuha<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sayu.png?raw=true)Sayu<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/jean.png?raw=true)Jean<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sucrose.png?raw=true)Sucrose<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/rosaria.png?raw=true)Jesse<br><b>Off-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kaeya.png?raw=true)James<br><b>Off-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/zhongli.png?raw=true)Zhongli<br><b>Shielder, Debuffer | ![](RackMultipart20220913-1-dwd49w_html_9cefc8b60af37a55.png)Venti<br><b>Viridescent Support |
+|![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ayaka.png?raw=true)Ayaka<br><b>DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/ganyu.png?raw=true)Ganyu<br><b>DPS | ![](RackMultipart20220913-1-dwd49w_html_83d6b5bf2a6c64f9.png)It Is A Mystery
  | ![](RackMultipart20220913-1-dwd49w_html_3c39c4d828ca885a.png)It Is A Mystery
  |
 
 Finally, there are Burning Teams, which focus on providing as much Dendro application as possible with Pyro in order to afflict enemies with damage-over-time, much like Electro-Charged strategies. Dendro application demands are generally higher because Dendro acts as the "fuel" for Burning. 1U of Dendro with Burning lasts about 2-seconds. Collei is the best at keeping this application up while off-field. Dendro Traveler, however, is ineligible for Burning teams, due to her Burst's premature explosion.
 
-| **Burning Teams** |
-| --- |
-| ![](RackMultipart20220913-1-dwd49w_html_dcff5ab7d5df12c4.png)
- Collei Aura or Trigger | ![](RackMultipart20220913-1-dwd49w_html_bed56b3a155397e7.png)PyroAura or Trigger | ![](RackMultipart20220913-1-dwd49w_html_e99c471bfaead9a1.png)Dendro or PyroSupport/Flex | ![](RackMultipart20220913-1-dwd49w_html_48a7ca4b389e0abd.png)Anemo/FlexSupport/Flex |
+ **Burning Teams** 
+|||||
+| :---: |:---: |:---: |:---: |
+| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/collei.png?raw=true)
+ Collei <br><b> Aura or Trigger | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/pyro.svg)Pyro<br><b>Aura or Trigger | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/pyro.svg)![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/54d1b295711cba9c919b6e3cbfe3e3774b4ba5f2/assets/icons/elements/dendro.png)Dendro or Pyro<br><b>Support/Flex | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/54d1b295711cba9c919b6e3cbfe3e3774b4ba5f2/assets/icons/elements/anemo.svg)![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Anemo/Flex<br><b>Support/Flex |
 
 Thoma returns as a strong Pyro Trigger for Burning. Most Pyro characters generally do not run full Elemental Mastery investments, so most other Pyro characters will probably just focus on raw power and just be happy that Burning is extra damage for the team. In these cases, either Collei or Tighnari should be the Trigger.
 
 Bennett is an obvious first pick for a flex slot, especially if using a Pyro carry with high energy requirements like Thoma or Xiangling. Anemo units also tend to run full Elemental Mastery investment anyways, and swirling Pyro onto Dendro would be another way to channel high amount of EM into Burning damage
 
-| **Team members for Burgeon/Hyperbloom teams.** |
-| --- |
-| ![](RackMultipart20220913-1-dwd49w_html_92dd2dbb4fb2b3e4.png)AmberGirlfriend Support | ![](RackMultipart20220913-1-dwd49w_html_410f7f1de2a97865.png)XianglingOff-Field DPS | ![](RackMultipart20220913-1-dwd49w_html_453fe56b7d9476e0.png)ThomaReaction (EM) DPS | ![](RackMultipart20220913-1-dwd49w_html_d4b9b29f61680a82.png)Bennett.He's Bennett. |
-| ![](RackMultipart20220913-1-dwd49w_html_8587f8c82faff2c4.png)
- TighnariOn-Field DPS | ![](RackMultipart20220913-1-dwd49w_html_40926def42ed2705.png)Traveler[Hyperbloom Only] | ![](RackMultipart20220913-1-dwd49w_html_6b4b0f73e8a1c9a0.png)
- KazuhaViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_9cefc8b60af37a55.png)VentiViridescent Support |
-| ![](RackMultipart20220913-1-dwd49w_html_88c315a626fddfe9.png)SayuViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_370f098ce0de01bf.png)
- JeanViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_82db4d35b228cbe0.png)SucroseViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_843d8836a89e62eb.png)ZhongliShielder, Debuffer
+ **Team members for Burgeon/Hyperbloom teams.** 
+|||||
+| :---: |:---: |:---: |:---: |
+| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/amber.png?raw=true)Amber<br><b>Girlfriend Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/xiangling.png?raw=true)Xiangling<br><b>Off-Field DPS |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/thoma.png?raw=true)Thoma<br><b>Reaction (EM) DPS |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/bennett.png?raw=true)Bennett <br><b>He's Bennett. | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tighnari.png?raw=true)
+Tighnari<br><b>On-Field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/traveler_boy_anemo.png?raw=true)Traveler<br><b>Hyperbloom Only |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kazuha.png?raw=true)Kazuha<br><b>Viridescent Support |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/venti.png?raw=true)Venti<br><b>Viridescent Support |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sayu.png?raw=true)Sayu<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/jean.png?raw=true)
+ Jean<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sucrose.png?raw=true)Sucrose<br><b>Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/zhongli.png?raw=true)Zhongli<br><b>Shielder, Debuffer
  |
 
 ## **Collei Resources**
