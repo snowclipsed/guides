@@ -454,11 +454,8 @@ We'll start first with Hyperbloom and Burgeon first, as Bloom is an odd case. Th
  **Hyperbloom/Burgeon Teams** 
 |       |       |       |       |
 | :---: | :---: | :---: | :---: |
-| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/collei.png?raw=true)Collei (Aura) |![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/electro.svg)Electro (Trigger) | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/hydro.svg)Hydro (Application) | ![](RackMultipart20220913-1-dwd49w_html_e99c471bfaead9a1.png)Flex |
-| or |
-| ![](RackMultipart20220913-1-dwd49w_html_dcff5ab7d5df12c4.png)
- Collei (Dmg/Crit) | ![](RackMultipart20220913-1-dwd49w_html_bed56b3a155397e7.png)Pyro (Trigger) | ![](RackMultipart20220913-1-dwd49w_html_ce491ef8bac0c2fc.png)
- Hydro (Application) | ![](RackMultipart20220913-1-dwd49w_html_e99c471bfaead9a1.png)Flex |
+| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/collei.png?raw=true)Collei <br> (Aura) |![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/electro.svg)Electro <br> (Trigger) | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/hydro.svg)Hydro <br> (Application) | ![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Flex | 
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/collei.png?raw=true) Collei <br> (Dmg/Crit) | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/pyro.svg)Pyro <br> (Trigger) | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/hydro.svg) Hydro <br> (Application) | ![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Flex |
 
 Your flex spot will usually be dedicated to filling whatever gap your team has. The best generic flex spot choices are usually Viridescent Supports and Zhongli, due to their rare ability to shred resistances, which is almost universally useful. Other times you may need a second pyro to battery the first, and so on. Do note that Anemo _cannot_ Swirl Dendro.
 
@@ -470,25 +467,22 @@ Thoma can utilize a full EM artifact set as well, and provides a defensive optio
 
 Hydro characters need a lot of application to fit into these teams, but it doesn't matter if it's on or off-field as long as your Pyro or Electro character secures the reactions. Tartaglia has the most Hydro application of any character in the game, and is a strong On-Field DPS who likes playing with Electro and Pyro reactions. Yelan and Xingqiu serve similar roles, and together can carry most other 2-character combinations in the game.
 
-| **Team members for Burgeon/Hyperbloom teams.** |
-| --- |
-| ![](RackMultipart20220913-1-dwd49w_html_c32093902a38681a.png)Kuki ShinobuReaction (EM) DPS | ![](RackMultipart20220913-1-dwd49w_html_175bfbad3547e820.png)Yae MikoDPS | ![](RackMultipart20220913-1-dwd49w_html_453fe56b7d9476e0.png)ThomaReaction (EM) DPS | ![](RackMultipart20220913-1-dwd49w_html_d4b9b29f61680a82.png)Bennett.Role: Bennett. |
-| ![](RackMultipart20220913-1-dwd49w_html_66f05feff8a9b7e5.png)TartagliaOn-field DPS | ![](RackMultipart20220913-1-dwd49w_html_9f2a36136bb7b99e.png)
- KokomiHealing Support | ![](RackMultipart20220913-1-dwd49w_html_d0e2882105d289b7.png)
- YelanDPS | ![](RackMultipart20220913-1-dwd49w_html_5451383eb6a25a32.png)XingqiuOff-Field Support |
-| ![](RackMultipart20220913-1-dwd49w_html_6b4b0f73e8a1c9a0.png)
- KazuhaViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_88c315a626fddfe9.png)SayuViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_370f098ce0de01bf.png)
- JeanViridescent Support | ![](RackMultipart20220913-1-dwd49w_html_82db4d35b228cbe0.png)SucroseViridescent Support |
-| ![](RackMultipart20220913-1-dwd49w_html_843d8836a89e62eb.png)ZhongliShielder, Debuffer | ![](RackMultipart20220913-1-dwd49w_html_abc09d2ee716a941.png)LisaDebuff/Buff Support | ![](RackMultipart20220913-1-dwd49w_html_40926def42ed2705.png)TravelerReaction Support | ![](RackMultipart20220913-1-dwd49w_html_9cefc8b60af37a55.png)VentiViridescent Support |
+ **Team members for Burgeon/Hyperbloom teams.** 
+|     |     |     |     |
+| :---: | :---: | :---: | :---: |
+|![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/shinobu.png?raw=true)Kuki Shinobu <br> Reaction (EM) DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/yaemiko.png?raw=true)Yae Miko <br> DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/thoma.png?raw=true)Thoma<br> Reaction DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/bennett.png?raw=true)Bennett <br> Role: Bennett. |
+| ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/tartaglia.png?raw=true)Tartaglia <br> On-field DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kokomi.png?raw=true)Kokomi <br> Healing Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/yelan.png?raw=true)Yelan <br> DPS | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/xingqiu.png?raw=true)Xingqiu <br> Off-Field Support |![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/kazuha.png?raw=true) Kazuha <br> Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sayu.png?raw=true)Sayu <br> Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/jean.png?raw=true)Jean <br> Viridescent Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/sucrose.png?raw=true)Sucrose <br> Viridescent Support |
+![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/zhongli.png?raw=true)Zhongli <br> Shielder, Debuffer | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/lisa.png?raw=true)Lisa <br> Debuff/Buff Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/traveler_boy_anemo.png?raw=true)Traveler <br> Reaction Support | ![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/venti.png?raw=true)Venti <br> Viridescent Support |
 
 Bloom teams come next. Occasionally, these are called "Fridge" teams when including a Cryo character. Using a Cryo character is useful for using Freeze reactions with Dendro. The saying goes, "you preserve your veggies when you refrigerate them," and what this means in mechanical terms is that Freeze reduces the 'amount' of elemental aura depleted. When reactions deplete less elemental auras, you can create more reactions with less application.
 
 The Bloom/Rupture Formula is _identical_ to the Overload formula, so consider Bloom the "tropical" flavor of it. The concept is similar; reduce Dendro resist and create as many transformative reactions as possible.
 
-| **Bloom/Fridge Teams** |
-| --- |
-| ![](RackMultipart20220913-1-dwd49w_html_dcff5ab7d5df12c4.png)
- Collei (Either Build) | ![](RackMultipart20220913-1-dwd49w_html_48a7ca4b389e0abd.png)Anemo/Flex | ![](RackMultipart20220913-1-dwd49w_html_ce491ef8bac0c2fc.png)Hydro | ![](RackMultipart20220913-1-dwd49w_html_c049ad5dd29bad6b.png)Cryo/Flex |
+ **Bloom/Fridge Teams** 
+|||||
+| :---: | :---: | :---: | :---: |
+| ![](RackMultipart20220913-1-dwd49w_html_dcff5ab7d5df12c4.png)![](https://github.com/WFP-Doobelepers/wangshengfp.org/blob/main/assets/character_cards/collei.png?raw=true)
+ Collei (Either Build) | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/anemo.svg)![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Anemo/Flex |![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/hydro.svg)Hydro | ![](https://raw.githubusercontent.com/WFP-Doobelepers/wangshengfp.org/16b91dcdae1aad11a57d6974efc5c9f3b55c4665/assets/icons/elements/cryo.svg)![](https://lh6.googleusercontent.com/xQN31j2ZRSo94RkmKQHU9VhBwbQOacBeqamAGnv6PRQHmk3NG6i_Eh2kXbRZ06MrnsH72CystiimfLPs2Jm9tCySqWBb4ufDvCL-wqJKVmKjEetMB42Bac9re57g0nPSUa2j5agk)Cryo/Flex |
 
 The flex slots can be more Dendro or Hydro characters. Anemo is useful when your On-Field DPS is Hydro and not the Trigger for reactions. In these cases, you want your Dendro character to carry Elemental Mastery gear. It's not recommended to run other elements besides Zhongli for his universal resistance shred. Choose Dendro or Hydro based on balancing the amount of application for whoever you decide to be your trigger DPS.
 
